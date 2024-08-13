@@ -23,8 +23,10 @@ My publications can be found at Google Scholar <a href='https://scholar.google.c
 - Personal Pages: https://shuoyang129.github.io
 - Google Scholar: https://scholar.google.com/citations?user=JJEEfUIAAAAJ
 - ORCID: https://orcid.org/0000-0003-2868-7070
+- DBLP: https://dblp.org/pid/78/1102-2.html
 
 ### 🔥 News
+- *2024.06*: &nbsp;😊😊 I graduated from Beijing Institute of Technology (北京理工大学) and got a position as an associate professor at Shenzhen MSU-BIT University (深圳北理莫斯科大学).
 - *2024.02*: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/10449438"><span style="font-style: italic;">A language-driven action localization</span></a> paper is accepted by IEEE <span style="color: #A93226;">T-MM</span> 2024 (<span style="color: #A93226;">JCR1, IF=7.3</span>)! 
 - *2023.12*: &nbsp;🎉🎉 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28472"><span style="font-style: italic;">A video visual relationship detection</span></a> paper is accepted by <span style="color: #A93226;">AAAI</span> 2024 (<span style="color: #A93226;">CCF-A</span> conference)!
 - *2023.07*: &nbsp;🎉🎉 <a href="https://dl.acm.org/doi/10.1145/3581783.3612512"><span style="font-style: italic;">A frame-supervised language-driven action localization</span></a> paper is accepted by <span style="color: #A93226;">ACM MM</span> 2023 (<span style="color: #A93226;">CCF-A</span> conference)!
